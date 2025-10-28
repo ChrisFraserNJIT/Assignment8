@@ -10,6 +10,8 @@ This README will be updated every time something has been changed or added to th
 
 # Screenshots for validation tracking
 
-GitHub Actions: Screenshots/actions.png
+## GitHub Actions
+![GitHub Actions](Screenshots/actions.png)
 
-Calculator Webpage: Screenshots/Calculator_Webpage.png
+## Calculator Webpage
+![Calculator Webpage](Screenshots/Calculator_Webpage.png)
